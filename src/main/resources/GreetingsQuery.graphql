@@ -1,0 +1,5 @@
+query GreetingsQuery {
+  schedule {
+    greetings
+  }
+}
