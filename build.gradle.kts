@@ -31,5 +31,6 @@ graphql {
     client {
         endpoint = "http://localhost:8080/graphql"
         packageName = "com.expediagroup.graphql.generated"
+        clientType = com.expediagroup.graphql.plugin.generator.GraphQLClientType.WEBCLIENT
     }
 }
