@@ -1,7 +1,7 @@
 package com.expediagroup.graphql.client
 
-import com.expediagroup.graphql.generated.ConferenceQuery
-import com.expediagroup.graphql.generated.GreetingsQuery
+import com.example.generated.ConferenceQuery
+import com.example.generated.GreetingsQuery
 import kotlinx.coroutines.runBlocking
 import org.springframework.web.reactive.function.client.WebClient
 
